@@ -3,6 +3,12 @@
 ### Having chosen to work with the Tanzania Waterpump dataset, I knew coming into the project that the majority of my work would involve data preprocessing, feature engineering, and training many models. I also knew I would need to set up some sort of process where I could automatically transform my testing data to have the same features as the data I trained my model on. 
 
 
+# Feature Selection
+
+### Creating my own function from scratch helped to get a better idea of the spread of data for each feature. The function returned a percent barplot. An example can be seen below:
+
+<img src="barplot">
+
 
 
 # Models Used:
