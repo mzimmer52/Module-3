@@ -7,7 +7,7 @@
 
 ### Creating my own function from scratch helped to get a better idea of the spread of data for each feature. The function returned a percent barplot. An example can be seen below:
 
-<img src="barplot">
+<img src="Pictures/barplot">
 
 
 
